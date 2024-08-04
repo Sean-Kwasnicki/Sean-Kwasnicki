@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software engineer currently attending App Ac
 ## About Me
 
 - 🌱 I’m currently learning and building projects with Flask, React, and Docker.
-- 🔭 Check out my latest project [TradeWise]([https://github.com/Sean-Kwasnicki/TradeWise](https://tradewise-algobuilder.onrender.com/), a fintech algorithm building site.
+- 🔭 Check out my latest project [TradeWise](https://tradewise-algobuilder.onrender.com/), a fintech algorithm building site.
 - 💼 Connect with me on [LinkedIn]([https://www.linkedin.com/in/sean-kwasnicki/](https://www.linkedin.com/in/sean-kwasnicki-95a452321)).
 - 📫 How to reach me: [kwasnicki.sean@gmail.com](mailto:kwasnicki.sean@gmail.com)
 - 🌟 Fun fact: I enjoy ethical hacking and ensuring system security using tools like Kali Linux.
