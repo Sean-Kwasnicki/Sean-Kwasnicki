@@ -1,3 +1,8 @@
+
+Here's the updated README for your GitHub profile with the requested information and format:
+
+markdown
+Copy code
 ## Hi there, I'm Sean 👋
 
 Welcome to my GitHub profile! I'm a software engineer currently attending App Academy. I enjoy working on challenging projects and continuously learning new technologies.
@@ -23,3 +28,15 @@ Welcome to my GitHub profile! I'm a software engineer currently attending App Ac
 ### [TradeWise](https://tradewise-algobuilder.onrender.com/)
 A fintech algorithm building site that allows users to build, backtest, and deploy trading algorithms. This project integrates live data and provides a user-friendly interface for managing trading strategies.
 
+### [Discord Clone](https://github.com/Sean-Kwasnicki/Discord-Clone](https://connect-0hg1.onrender.com)
+A real-time chat application built with Flask, React, and WebSockets. The project includes features such as server and channel management, user authentication, and message reactions. This clone replicates the core functionalities of Discord, providing an immersive real-time messaging experience with seamless WebSocket integration for instant communication.
+
+## Get In Touch
+
+Feel free to reach out to me for collaborations, project discussions, or just to connect. I'm always open to new opportunities and exciting challenges!
+
+---
+
+**Sean Kwasnicki**
+
+[LinkedIn](https://www.linkedin.com/in/sean-kwasnicki-95a452321) | [Email](mailto:kwasnicki.sean@gmail.com)
