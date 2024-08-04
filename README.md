@@ -1,9 +1,4 @@
-
-Here's the updated README for your GitHub profile with the requested information and format:
-
-markdown
-Copy code
-## Hi there, I'm Sean 👋
+## Hi there, I'm Sean Kwasnicki 👋
 
 Welcome to my GitHub profile! I'm a software engineer currently attending App Academy. I enjoy working on challenging projects and continuously learning new technologies.
 
