@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a software engineer currently attending App Ac
 ## Projects
 
 ### [TradeWise](https://tradewise-algobuilder.onrender.com/)
-A fintech algorithm building site that allows users to build, backtest, and deploy trading algorithms. This project integrates live data and provides a user-friendly interface for managing trading strategies.
+A fintech algorithm building site that allows users to build custome trading algorithms. This project integrates live data and provides a user-friendly interface for managing trading strategies.
 
 ### [Connect - Discord Clone](https://connect-0hg1.onrender.com)
 A real-time chat application built with Flask, React, and WebSockets. The project includes features such as server and channel management, user authentication, and message reactions. This clone replicates the core functionalities of Discord, providing an immersive real-time messaging experience with seamless WebSocket integration for instant communication.
