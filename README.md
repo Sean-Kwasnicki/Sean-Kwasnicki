@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a software engineer currently attending App Ac
 - 🔭 Check out my latest project [TradeWise](https://tradewise-algobuilder.onrender.com/), a fintech algorithm building site.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sean-kwasnicki-95a452321).
 - 📫 How to reach me: [kwasnicki.sean@gmail.com](mailto:kwasnicki.sean@gmail.com)
-- 🌟 Fun fact: I enjoy ethical hacking and ensuring system security using tools like Kali Linux.
+- 🌟 Fun fact: I am passionate about Trading Strategies and empowering the next generation.
 
 ## Skills
 
