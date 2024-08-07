@@ -59,6 +59,16 @@
 
 ---
 
+### :sparkles: Projects :
+
+#### [TradeWise](https://tradewise-algobuilder.onrender.com/)
+A fintech algorithm building site that allows users to build custom trading algorithms. This project integrates live data and provides a user-friendly interface for managing trading strategies.
+
+#### [Connect - Discord Clone](https://connect-0hg1.onrender.com)
+A real-time chat application built with Flask, React, and WebSockets. The project includes features such as server and channel management, user authentication, and message reactions. This clone replicates the core functionalities of Discord, providing an immersive real-time messaging experience with seamless WebSocket integration for instant communication.
+
+---
+
 ### :hammer_and_wrench: Skills :
 
 - **Frontend:** React, HTML, CSS, JavaScript
@@ -67,16 +77,6 @@
 - **Tools:** Docker, Git, WebSockets
 - **APIs:** Finnhub, Yahoo Finance, Interactive Brokers
 - **Languages:** English, Polish, Spanish
-
----
-
-### :sparkles: Projects :
-
-#### [TradeWise](https://tradewise-algobuilder.onrender.com/)
-A fintech algorithm building site that allows users to build custom trading algorithms. This project integrates live data and provides a user-friendly interface for managing trading strategies.
-
-#### [Connect - Discord Clone](https://connect-0hg1.onrender.com)
-A real-time chat application built with Flask, React, and WebSockets. The project includes features such as server and channel management, user authentication, and message reactions. This clone replicates the core functionalities of Discord, providing an immersive real-time messaging experience with seamless WebSocket integration for instant communication.
 
 ---
 
