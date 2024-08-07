@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0HlNNUcVfWpebrFo/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/5fbzZeo9xyR2Ug4z4e/giphy.gif" width="200"/>
 </div>
 
 <h1 align="center">
@@ -11,12 +11,6 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sean-kwasnicki-95a452321">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/c/yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -34,6 +28,21 @@
 
 ---
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+---
+
 ### :hammer_and_wrench: Skills :
 
 - **Frontend:** React, HTML, CSS, JavaScript
@@ -41,6 +50,7 @@
 - **Databases:** PostgreSQL, SQL
 - **Tools:** Docker, Git, WebSockets
 - **APIs:** Finnhub, Yahoo Finance, Interactive Brokers
+- **Languages:** English, Polish, Spanish
 
 ---
 
@@ -65,3 +75,4 @@ A real-time chat application built with Flask, React, and WebSockets. The projec
 **Sean Kwasnicki**
 
 [LinkedIn](https://www.linkedin.com/in/sean-kwasnicki-95a452321) | [Email](mailto:kwasnicki.sean@gmail.com)
+
