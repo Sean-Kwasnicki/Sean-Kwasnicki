@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif" width="200"/>
 </div>
 
 <h1 align="center">
@@ -45,9 +45,14 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sean-Kwasnicki&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Kwasnicki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Sean-Kwasnicki&theme=dark&background=000000" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Kwasnicki&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+  </a>
+</div>
 
 ---
 
