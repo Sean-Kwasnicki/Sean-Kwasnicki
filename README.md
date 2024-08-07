@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5fbzZeo9xyR2Ug4z4e/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200"/>
 </div>
 
 <h1 align="center">
@@ -43,6 +43,14 @@
 
 ---
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sean-Kwasnicki&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Kwasnicki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### :hammer_and_wrench: Skills :
 
 - **Frontend:** React, HTML, CSS, JavaScript
@@ -61,14 +69,6 @@ A fintech algorithm building site that allows users to build custom trading algo
 
 #### [Connect - Discord Clone](https://connect-0hg1.onrender.com)
 A real-time chat application built with Flask, React, and WebSockets. The project includes features such as server and channel management, user authentication, and message reactions. This clone replicates the core functionalities of Discord, providing an immersive real-time messaging experience with seamless WebSocket integration for instant communication.
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sean-Kwasnicki&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Kwasnicki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
