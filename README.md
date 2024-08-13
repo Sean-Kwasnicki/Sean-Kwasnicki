@@ -76,7 +76,7 @@ A real-time chat application built with Flask, React, and WebSockets. The projec
 - **Databases:** PostgreSQL, SQL
 - **Tools:** Docker, Git, WebSockets
 - **APIs:** Finnhub, Yahoo Finance, Interactive Brokers
-- **Languages:** English, Polish, Spanish
+- **Languages:** English
 
 ---
 
